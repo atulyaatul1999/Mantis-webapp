@@ -71,6 +71,9 @@
     font-size: 30px;
     margin-left: 80px;
 }
+.nav-item:hover{
+    background-color: lawngreen;
+}
 .appt{
     position: absolute;
     width: 324px;

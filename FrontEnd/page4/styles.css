@@ -1,0 +1,384 @@
+.btn11 {
+    margin-left: 930px;
+}
+
+.head1 {
+    position: absolute;
+    width: 100%;
+    height: 240px;
+    top: 127px;
+    background: #FF7300;
+}
+
+.ellip {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 98px;
+    top: 39px;
+    border-radius: 80px;
+    background: #FFFFFF;
+}
+
+.pers {
+    position: absolute;
+    left: 9.33%;
+    right: 8.33%;
+    top: 29.33%;
+    bottom: 8.33%;
+    height: 90px;
+    width: 90px;
+    background: #000000;
+    border-radius: 70px;
+}
+
+.userName {
+    position: absolute;
+    width: 310.33px;
+    height: 58.58px;
+    left: 295px;
+    top: 16px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 63.2653px;
+    line-height: 74px;
+
+    color: #FFFFFF;
+}
+
+.mem {
+    position: absolute;
+    width: 180px;
+    height: 22px;
+    left: 300px;
+    top: 100px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #E5E5E5;
+}
+
+.nav {
+    margin-top: 300px;
+    background-color: lightgrey;
+    width: 800px;
+    margin-left: 240px;
+}
+
+.nav-item {
+    font-size: 30px;
+    margin-left: 80px;
+}
+
+.nav-item:hover{
+    background-color: greenyellow;
+}
+
+.journ{
+    position: absolute;
+    width: 234px;
+    height: 33px;
+    left: 123px;
+    top: 579px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #006838;
+
+}
+.journImg{
+    position: absolute;
+    width: 1140px;
+    height: 270px;
+    left: 110px;
+    top: 670px;
+}
+.webi{
+    position: absolute;
+    width: 410px;
+    height: 33px;
+    left: 120px;
+    top: 1056px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #006838;
+}
+.webi1{
+    position: absolute;
+    width: 530px;
+    height: 288px;
+    left: 110px;
+    top: 1173px;
+
+}
+.webi2{
+    position: absolute;
+    width: 587px;
+    height: 33px;
+    left: 720px;
+    top: 1173px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #006838;
+
+}
+.webi3{
+    position: absolute;
+    width: 587px;
+    height: 33px;
+    left: 720px;
+    top: 1241px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+.webi4{
+    position: absolute;
+    width: 587px;
+    height: 33px;
+    left: 720px;
+    top: 1295px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+.webi5{
+    position: absolute;
+    width: 273px;
+    height: 80px;
+    left: 720px;
+    top: 1381px;
+
+    background: #FFFFFF;
+    border: 1px solid #F6921E;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.w6{
+    position: absolute;
+    width: 530px;
+    height: 288px;
+    left: 110px;
+    top: 1587px;
+}
+.w7{
+    position: absolute;
+    width: 587px;
+    height: 33px;
+    left: 720px;
+    top: 1587px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #006838;
+
+}
+.w8{
+    position: absolute;
+    width: 587px;
+    height: 33px;
+    left: 720px;
+    top: 1655px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+}
+.w9{
+    position: absolute;
+    width: 587px;
+    height: 33px;
+    left: 720px;
+    top: 1709px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+.w10{
+    position: absolute;
+    width: 283px;
+    height: 80px;
+    left: 720px;
+    top: 1795px;
+
+    background: #FFFFFF;
+    border: 1px solid #F6921E;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+
+/* Footer Section */
+
+.foot {
+    position: absolute;
+    width: 100%;
+    height: 180px;
+    top: 2100px;
+    background: #F97C01;
+}
+
+.foot1 {
+    position: absolute;
+    width: 116px;
+    height: 28px;
+    left: 164px;
+    top: 50px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+
+.foot2 {
+    position: absolute;
+    width: 180px;
+    height: 28px;
+    left: 317px;
+    top: 50px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #4A311D;
+}
+
+.foot2 {
+    position: absolute;
+    width: 180px;
+    height: 28px;
+    left: 317px;
+    top: 50px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #4A311D;
+}
+
+.foot3 {
+    position: absolute;
+    width: 180px;
+    height: 28px;
+    left: 280px;
+    top: 80px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #4A311D;
+}
+
+.foot4 {
+    position: absolute;
+    width: 125px;
+    height: 28px;
+    left: 573px;
+    top: 50px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+
+}
+
+.abt {
+    position: absolute;
+    width: 150px;
+    height: 56px;
+    left: 780px;
+    top: 50px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #4A311D;
+
+}
+
+.work {
+    position: absolute;
+    width: 150px;
+    height: 56px;
+    left: 780px;
+    top: 90px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #4A311D;
+
+}
+
+.socials {
+    margin-left: 1150px;
+    margin-top: 50px;
+}
